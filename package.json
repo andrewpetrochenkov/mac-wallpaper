@@ -1,0 +1,14 @@
+{
+  "name": "mac-wallpaper",
+  "version": "2019.3.22",
+  "description": "get/set macOS wallpaper",
+  "keywords": [
+    "wallpaper"
+  ],
+  "homepage": "https://github.com/looking-for-a-job/mac-wallpaper.py",
+  "license": "Unlicense",
+  "bin": {
+    ".wallpaper.applescript": "./scripts/.wallpaper.applescript",
+    "wallpaper": "./scripts/wallpaper"
+  }
+}
